@@ -1,6 +1,6 @@
 @media (max-width: 1300px) {
   .footer_container {
-    border-radius: 250px 0 0 0;
+    border-radius: 250px 0 0;
   }
 }
 
@@ -41,7 +41,7 @@
 
 @media (max-width: 768px) {
   .hero_area {
-    border-radius: 0 0 250px 0;
+    border-radius: 0 0 250px;
   }
 
   .slider_section .detail-box {
